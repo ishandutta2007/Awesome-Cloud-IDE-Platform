@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-IDE-Platform?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-IDE-Platform?style=social" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-IDE-Platform?style=social" alt="GitHub Forks" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-IDE-Platform?style=flat-square" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,7 +63,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated list of top open-source repositories powering self-hosted Cloud IDEs, web editors, and containerized development standards. Sorted by GitHub star count ⭐:
+Curated list of top open-source repositories powering self-hosted Cloud IDEs, web editors, and containerized development standards. Sorted by GitHub Stars_Count ⭐:
 
 - [<img src="https://img.shields.io/github/stars/coder/code-server?style=social&color=white" alt="code-server stars"/>](https://github.com/coder/code-server/stargazers) **[code-server](https://github.com/coder/code-server)** 💻  
   Run VS Code on any remote Linux server and access it directly through any browser with browser-based authentication and extension support.
@@ -129,3 +129,12 @@ If you find this list helpful, please consider supporting the project! 🌟
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Cloud IDEs execute code remotely and process repository secrets. Always review security, data residency, and network isolation policies when deploying cloud development environments.
 - Product logos and brand names belong to their respective owners.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-IDE-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-IDE-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-IDE-Platform_growth.svg">
+  </picture>
+</a>
